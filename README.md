@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="<img width="633" height="633" alt="image" src="https://github.com/user-attachments/assets/56aa3cb0-6232-43d9-a7cb-aea0adfa9bed" />
+"  />
 
 ###
 
